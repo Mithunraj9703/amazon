@@ -1,1 +1,1 @@
-Demo:-https://eloquent-blancmange-b7a191.netlify.app/
+Demo:-https://amazon-clone-demo2129.netlify.app/
